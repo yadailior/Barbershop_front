@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yadailior/barbershop_front/static/css/main.547e1c80.css",
+    "main.js": "/yadailior/barbershop_front/static/js/main.e79a12f6.js",
+    "static/media/background.png": "/yadailior/barbershop_front/static/media/background.3c5116597761cfeffc72.png",
+    "static/media/map.png": "/yadailior/barbershop_front/static/media/map.c7cb80e13b95531b2cdd.png",
+    "index.html": "/yadailior/barbershop_front/index.html",
+    "main.547e1c80.css.map": "/yadailior/barbershop_front/static/css/main.547e1c80.css.map",
+    "main.e79a12f6.js.map": "/yadailior/barbershop_front/static/js/main.e79a12f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.547e1c80.css",
+    "static/js/main.e79a12f6.js"
+  ]
+}
