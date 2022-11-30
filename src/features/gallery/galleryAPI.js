@@ -1,5 +1,5 @@
 import axios from "axios";
-const MY_SERVER = "http://127.0.0.1:8000";
+const MY_SERVER = "https://barbershop1.onrender.com";
 
 export function upLoadPhoto(photoData) {
   return new Promise((resolve) =>
